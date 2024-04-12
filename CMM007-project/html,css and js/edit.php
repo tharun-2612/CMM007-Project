@@ -20,7 +20,7 @@
 <body>
     <div class="nav">
         <div class="logo">
-            <p><a href="home.php"> Logo</a></p>
+            <p><a href="home.php">The Cooking Foodie</a></p>
         </div>
 
         <div class="right-links">
