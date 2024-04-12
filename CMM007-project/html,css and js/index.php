@@ -80,7 +80,7 @@ if ($result && mysqli_num_rows($result) == 1) {
                     <?php endif; ?>
                     <li><a href="#section1">Categories</a></li>
                     <li><a href="#section2">Recipes</a></li>
-                    <li><a href="view.php">Dashboard</a></li>
+                    <li><a href="view.php">Chef's Dashboard</a></li>
                     <li><a href="/">Contact Us</a></li>
                 </ul>
                 <div class="searchbar flex">
