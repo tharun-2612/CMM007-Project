@@ -17,7 +17,7 @@ if (isset($_SESSION["valid"])) {
 
 <body>
     <header>
-        <h1>Dashboard</h1>
+        <h1>Chef's Dashboard</h1>
         <a href="index.php">Back</a>
     </header>
 
