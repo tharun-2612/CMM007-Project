@@ -25,7 +25,7 @@ if (isset($_SESSION["valid"])) {
         <h2>Recipes</h2>
 
         <?php
-        // check if thre user is logged in
+        // check if the user is logged in
         if (isset($_SESSION['Role'])) {
             if ($_SESSION['Role'] == 'cook_chef') {
 
